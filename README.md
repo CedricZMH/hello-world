@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi guys! CedricZMH here, a student from SUSTech.
